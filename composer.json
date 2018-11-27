@@ -1,0 +1,16 @@
+{
+    "name" : "dr/sildenafil",
+    "description" : "php framework",
+    "type" : " project ",
+    "require" : {
+        "drcarpen/carpen" : "1.*"
+    },
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Dr Lee",
+            "email" : "952154830@qq.com"
+        }
+    ],
+    "minimum-stability" : "stable"
+}
